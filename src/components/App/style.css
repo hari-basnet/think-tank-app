@@ -1,0 +1,22 @@
+:root {
+  --blue: #2b2570;
+  --cyan: #1dffc2;
+  --grey: #e4e4e4;
+  color: var(--blue);
+  font-size: 24px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Exo 2 Regular", sans-serif;
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
